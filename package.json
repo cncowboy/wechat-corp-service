@@ -19,7 +19,7 @@
   "homepage": "https://github.com/node-webot/wechat-corp-service",
   "dependencies": {
     "urllib": "^2.2.1",
-    "q": "^1.5.1"
+    "querystring": "^0.2.0"
   },
   "devDependencies": {
     "mocha": "*",
